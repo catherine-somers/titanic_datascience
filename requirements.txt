@@ -102,7 +102,7 @@ Theano==1.0.4
 tornado==6.0.3
 tqdm==4.41.1
 traitlets==4.3.2
-urllib3==1.25.7
+urllib3==1.25.8
 virtualenv==20.0.21
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
